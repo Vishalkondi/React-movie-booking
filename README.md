@@ -1,70 +1,56 @@
-# Getting Started with Create React App
+# 🎬 React Movie Booking App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+An elegant and fully responsive movie ticket booking application built with **React.js** and **Bootstrap 5**. It fetches real movie data from the [TVMaze API](https://www.tvmaze.com/api) and allows users to:
 
-## Available Scripts
+- View live movies with posters and ratings
+- Search for movies
+- Select show timings
+- Choose seats
+- Fill in details
+- Download the ticket as a PDF
+- View all previous bookings
+- Toggle between Light and Dark mode
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## 🚀 Live Demo
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+👉 [Click here to view the app live](https://your-vercel-link.vercel.app/)  
+_(Replace with your actual Vercel link)_
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+## 📸 Screenshots
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![Home](./screenshots/home.png)
+![Booking Form](./screenshots/booking.png)
+![Ticket Download](./screenshots/ticket.png)
+![History](./screenshots/history.png)
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 🛠️ Features
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+✅ Live movie data from API  
+✅ Booking form with seat selection  
+✅ PDF ticket download with jsPDF  
+✅ Booking history (stored in `localStorage`)  
+✅ Dark mode toggle  
+✅ Fully responsive with Bootstrap  
+✅ Modular and clean component structure  
+✅ Ready for Firebase login & deployment
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
+## 🧑‍💻 Tech Stack
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- ⚛️ React.js (Functional Components + Hooks)
+- 💄 Bootstrap 5 (UI and responsive layout)
+- 📦 jsPDF (for ticket generation)
+- 🌐 TVMaze API (movie data)
+- 🖥️ Vercel (deployment)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## 📁 Folder Structure
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
