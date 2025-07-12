@@ -1,6 +1,7 @@
 # 🎬 React Movie Booking App
 
-An elegant and fully responsive movie ticket booking application built with **React.js** and **Bootstrap 5**. It fetches real movie data from the [TVMaze API](https://www.tvmaze.com/api) and allows users to:
+An elegant and fully responsive movie ticket booking application buil![Uploading Screenshot (97).png…]()
+t with **React.js** and **Bootstrap 5**. It fetches real movie data from the [TVMaze API](https://www.tvmaze.com/api) and allows users to:
 
 - View live movies with posters and ratings
 - Search for movies
