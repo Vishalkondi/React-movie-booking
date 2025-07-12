@@ -131,15 +131,6 @@ Edit
 
 ---
 
-## ✅ Next Steps
-
-Would you like me to:
-
-- Add this `README.md` to your project directly?  
-- Help you make screenshots (`screenshots/` folder)?  
-- Push this to GitHub for you?
-
-Just say the word! I'm ready to help you complete your project professionally.
 
 
 
@@ -148,6 +139,5 @@ Just say the word! I'm ready to help you complete your project professionally.
 
 
 
-Ask ChatGPT
 
 
